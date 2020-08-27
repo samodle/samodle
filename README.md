@@ -5,6 +5,6 @@ I'm a tech leader and engineer who is passionate about making the best future ca
 
 
 ## Find me around the web 🌎: <a href="https://www.linkedin.com/in/samodle/"><img align="left" width="220" height="146" src="https://github.com/samodle/samodle/blob/master/Sam-286.jpg"></a>
-- Let's connect at <a href="https://www.linkedin.com/in/samodle/">LinkedIn</a> 💼
-- Sporadically sharing updates on <a href="https://www.twitter.com/samodledc"> Twitter</a> 🏓
-- Fork is on  <a href="https://www.linkedin.com/company/forkcareers/">LinkedIn</a> too! 🍴
+  - Let's connect at <a href="https://www.linkedin.com/in/samodle/">LinkedIn</a> 💼
+  - Sporadically sharing updates on <a href="https://www.twitter.com/samodledc"> Twitter</a> 🏓
+  - Fork is on  <a href="https://www.linkedin.com/company/forkcareers/">LinkedIn</a> too! 🍴

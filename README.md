@@ -7,4 +7,4 @@ I'm a tech leader and engineer who is passionate about the future of work. Some 
 ## Find me around the web 🌎: <a href="https://www.linkedin.com/in/samodle/"><img align="left" width="220" height="146" src="https://github.com/samodle/samodle/blob/master/Sam-286.jpg"></a>
   - Connect with me on <a href="https://www.linkedin.com/in/samodle/">LinkedIn</a> 💼
   - Sporadically sharing updates on <a href="https://www.twitter.com/itssamodle"> Twitter</a> 🏓
-  - Hey look, I made <a href="https://www.samodle.com">website</a>! 🍴
+  - Hey look, I made a <a href="https://www.samodle.com">website</a>! 🍴
